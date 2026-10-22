@@ -1,12 +1,10 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/voidstack-developers/.github/main/profile/branding/banner-dark.svg">
+  <img alt="VoidStack - From Experiments to Products." src="https://raw.githubusercontent.com/voidstack-developers/.github/main/profile/branding/banner-light.svg">
+</picture>
 
-**Here are some ideas to get you started:**
+<br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[![Website](https://img.shields.io/badge/Website-voidstack.xyz-2A2D34?style=flat-square&labelColor=111113)](https://cartiqolabs.com) [![Discord](https://img.shields.io/badge/Discord-Join%20the%20server-2A2D34?style=flat-square&labelColor=111113&logo=discord&logoColor=white)](https://discord.gg/ndNKqwgvD9) [![Location](https://img.shields.io/badge/Based%20in-The%20Netherlands-2A2D34?style=flat-square&labelColor=111113)](https://cartiqolabs.com)
